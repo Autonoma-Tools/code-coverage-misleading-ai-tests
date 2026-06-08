@@ -1,0 +1,11 @@
+{
+  "name": "code-coverage-misleading-ai-tests",
+  "version": "0.1.0",
+  "description": "A JavaScript price-calculation function with a deliberately buggy premium discount constant, plus a tautological test that achieves 100% line coverage across every branch while asserting nothing that would catch the bug.",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "node --test src/hollow-coverage.test.js"
+  }
+}

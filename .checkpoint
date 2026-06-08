@@ -1,9 +1,9 @@
 {
   "version": 1,
   "slug": "code-coverage-misleading-ai-tests",
-  "step": "created",
-  "completed_specs": [],
-  "pending_specs": ["coverage-hollow-test"],
+  "step": "deps_written",
+  "completed_specs": ["coverage-hollow-test"],
+  "pending_specs": [],
   "created_at": "2026-06-08T00:00:00Z",
   "updated_at": "2026-06-08T00:00:00Z"
 }
